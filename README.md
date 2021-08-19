@@ -7,8 +7,9 @@ It can properly simulate the resource dependencies among migrations, and between
 As a result, It can evaluate the performance of multiple migration schedule in total migration time, individual migration time, downtime, transferred data, application response time,
 migration deadline violation, and energy consumption due to migrations.
 
-#Concurreny-Aware VM migration request generation in dynamic resource management
-https://github.com/hetianzhang/CloudSimMig-CAMIG
+# CAMIG: Concurreny-Aware VM migration request generation in dynamic resource management
+[CAMIG](https://github.com/hetianzhang/CloudSimMig-CAMIG): Generating multiple migration requests with migration scheduling optimization for dynamic resource management algorithms.
+
 
 # Publications #
 * He, TianZhang, Adel N. Toosi, and Rajkumar Buyya. "SLA-aware multiple migration planning and scheduling in SDN-NFV-enabled clouds." Journal of Systems and Software 176 (2021): 110943.
